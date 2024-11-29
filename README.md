@@ -2,8 +2,8 @@
 
 ## 工程列表
 
-### 核心模块
-
+<!-- ### 核心模块 -->
+<!-- 
 #### @felce/lowcode-engine 引擎核心
 
 [![NPM version][npm-image]][npm-url] [![NPM downloads][download-image]][download-url]
@@ -11,9 +11,25 @@
 [![][issues-helper-image]][issues-helper-url] [![Issues need help][help-wanted-image]][help-wanted-url]
 
 [![codecov][codecov-image-url]][codecov-url] [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lowcode-workspace/awesome-lowcode-engine)
+ -->
+
+
+| 工具名称                                                                       | 版本                                                                                   | 描述             |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------- |
+| [@felce/lowcode-engine][github-url]                                    | [![NPM version][npm-image]][npm-url]                                           | 引擎核心     |
+| [@felce/lowcode-engine-ext][github-ext-url]                                    | [![NPM version][npm-ext-image]][npm-ext-url]                                           | 引擎设置器集     |
+| [@felce/lowcode-react-renderer-core][github-react-renderer-core-url]           | [![NPM version][npm-react-renderer-core-image]][npm-react-renderer-core-url]           | React 渲染器核心 |
+| [@felce/lowcode-react-renderer][github-react-renderer-url]                     | [![NPM version][npm-react-renderer-image]][npm-react-renderer-url]                     | React 渲染器     |
+| [@felce/lowcode-react-simulator-renderer][github-react-simulator-renderer-url] | [![NPM version][npm-react-simulator-renderer-image]][npm-react-simulator-renderer-url] | React 渲染器画布 |
+| [@felce/lowcode-vue-renderer-core][github-vue-renderer-core-url]               | [![NPM version][npm-vue-renderer-core-image]][npm-vue-renderer-core-url]               | Vue 渲染器核心   |
+| [@felce/lowcode-vue-renderer][github-vue-renderer-url]                         | [![NPM version][npm-vue-renderer-image]][npm-vue-renderer-url]                         | Vue 渲染器       |
+| [@felce/lowcode-vue-simulator-renderer][github-vue-simulator-renderer-url]     | [![NPM version][npm-vue-simulator-renderer-image]][npm-vue-simulator-renderer-url]     | Vue 渲染器画布   |
+
+<!-- core -->
 
 [npm-image]: https://img.shields.io/npm/v/@felce/lowcode-engine.svg?style=flat-square
 [npm-url]: http://npmjs.org/package/@felce/lowcode-engine
+[github-url]: http://github.com/fe-lce/lowcode-engine
 [download-image]: https://img.shields.io/npm/dm/@felce/lowcode-engine.svg?style=flat-square
 [download-url]: https://npmjs.org/package/@felce/lowcode-engine
 [help-wanted-image]: https://flat.badgen.net/github/label-issues/fe-lce/lowcode-engine/help%20wanted/open
@@ -22,17 +38,6 @@
 [issues-helper-url]: https://github.com/actions-cool/issues-helper
 [codecov-image-url]: https://codecov.io/gh/fe-lce/lowcode-engine/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/fe-lce/lowcode-engine
-
-
-| 工具名称                                                                       | 版本                                                                                   | 描述             |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------- |
-| [@felce/lowcode-engine-ext][github-ext-url]                                    | [![NPM version][npm-ext-image]][npm-ext-url]                                           | 引擎设置器集     |
-| [@felce/lowcode-react-renderer-core][github-react-renderer-core-url]           | [![NPM version][npm-react-renderer-core-image]][npm-react-renderer-core-url]           | React 渲染器核心 |
-| [@felce/lowcode-react-renderer][github-react-renderer-url]                     | [![NPM version][npm-react-renderer-image]][npm-react-renderer-url]                     | React 渲染器     |
-| [@felce/lowcode-react-simulator-renderer][github-react-simulator-renderer-url] | [![NPM version][npm-react-simulator-renderer-image]][npm-react-simulator-renderer-url] | React 渲染器画布 |
-| [@felce/lowcode-vue-renderer-core][github-vue-renderer-core-url]               | [![NPM version][npm-vue-renderer-core-image]][npm-vue-renderer-core-url]               | Vue 渲染器核心   |
-| [@felce/lowcode-vue-renderer][github-vue-renderer-url]                         | [![NPM version][npm-vue-renderer-image]][npm-vue-renderer-url]                         | Vue 渲染器       |
-| [@felce/lowcode-vue-simulator-renderer][github-vue-simulator-renderer-url]     | [![NPM version][npm-vue-simulator-renderer-image]][npm-vue-simulator-renderer-url]     | Vue 渲染器画布   |
 
 <!-- setter -->
 
