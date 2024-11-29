@@ -23,14 +23,6 @@
 [codecov-image-url]: https://codecov.io/gh/fe-lce/lowcode-engine/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/fe-lce/lowcode-engine
 
-#### @felce/lowcode-engine-ext setters
-
-[![NPM version][npm-ext-image]][npm-ext-url] [![NPM downloads][download-ext-image]][download-ext-url]
-
-[npm-ext-image]: https://img.shields.io/npm/v/@felce/lowcode-engine-ext.svg?style=flat-square
-[npm-ext-url]: http://npmjs.org/package/@felce/lowcode-engine-ext
-[download-ext-image]: https://img.shields.io/npm/dm/@felce/lowcode-engine-ext.svg?style=flat-square
-[download-ext-url]: https://npmjs.org/package/@felce/lowcode-engine-ext
 
 | 工具名称                                                                       | 版本                                                                                   | 描述             |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------- |
