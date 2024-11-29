@@ -34,6 +34,7 @@
 
 | 工具名称                                                                       | 版本                                                                                   | 描述             |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ---------------- |
+| [@felce/lowcode-engine-ext][github-ext-url]                                    | [![NPM version][npm-ext-image]][npm-ext-url]                                           | 引擎设置器集     |
 | [@felce/lowcode-react-renderer-core][github-react-renderer-core-url]           | [![NPM version][npm-react-renderer-core-image]][npm-react-renderer-core-url]           | React 渲染器核心 |
 | [@felce/lowcode-react-renderer][github-react-renderer-url]                     | [![NPM version][npm-react-renderer-image]][npm-react-renderer-url]                     | React 渲染器     |
 | [@felce/lowcode-react-simulator-renderer][github-react-simulator-renderer-url] | [![NPM version][npm-react-simulator-renderer-image]][npm-react-simulator-renderer-url] | React 渲染器画布 |
@@ -41,6 +42,13 @@
 | [@felce/lowcode-vue-renderer][github-vue-renderer-url]                         | [![NPM version][npm-vue-renderer-image]][npm-vue-renderer-url]                         | Vue 渲染器       |
 | [@felce/lowcode-vue-simulator-renderer][github-vue-simulator-renderer-url]     | [![NPM version][npm-vue-simulator-renderer-image]][npm-vue-simulator-renderer-url]     | Vue 渲染器画布   |
 
+<!-- setter -->
+
+[npm-ext-image]: https://img.shields.io/npm/v/@felce/lowcode-engine-ext.svg?style=flat-square
+[npm-ext-url]: http://npmjs.org/package/@felce/lowcode-engine-ext
+[github-ext-url]: https://github.com/fe-lce/lowcode-engine-ext
+[download-ext-image]: https://img.shields.io/npm/dm/@felce/lowcode-engine-ext.svg?style=flat-square
+[download-ext-url]: https://npmjs.org/package/@felce/lowcode-engine-ext
 <!-- React 系列 -->
 
 [npm-react-renderer-core-url]: http://npmjs.org/package/@felce/lowcode-react-renderer-core
